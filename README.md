@@ -19,6 +19,12 @@ My name is Adrian Vargas, I am a passionate developer born in Costa Rica.
 
 I am currently on a journey to find myself as a developer looking to learn new technologies and really involved in Web3.
 
+- 🔭 I’m currently working on a web3 sports betting project with a very good friend.
+- 🌱 I’m currently learning cairo and rust to develop smart contracts.
+- 👯 I’m looking to collaborate on innovative projects.
+- 📫 How to reach me: https://t.me/adrian_vrj
+- ⚡ Fun fact: I love lifting weights!
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adrianvrj)](https://git.io/streak-stats)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianvrj&show_icons=true&theme=transparent)

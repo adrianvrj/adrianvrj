@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Adrian Vargas, I am a passionate developer born in Costa Rica.
+
+I am currently on a journey to find myself as a developer looking to learn new technologies and really involved in Web3.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adrianvrj)](https://git.io/streak-stats)

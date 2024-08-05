@@ -25,8 +25,6 @@ I am currently on a journey to find myself as a developer looking to learn new t
 - 📫 How to reach me: https://t.me/adrian_vrj
 - ⚡ Fun fact: I love lifting weights!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adrianvrj)](https://git.io/streak-stats)
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianvrj&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianvrj&hide_progress=false&theme=transparent)

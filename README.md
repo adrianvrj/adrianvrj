@@ -1,4 +1,4 @@
-## Currently building
+Currently building Lumos Application on Starknet.
 
 Undef!ned Organization head of development.
 
